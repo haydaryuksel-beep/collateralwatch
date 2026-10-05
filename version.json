@@ -1,0 +1,8 @@
+JSON
+{
+    "latest_version": "4.6.0",
+    "release_date": "2026-10-05",
+    "mandatory": false,
+    "release_notes": "• Test Sürümü: Otomatik güncelleme başarıyla devreye alındı.\n• Yeni kurumsal özellikler ve hata düzeltmeleri eklendi.\n• Tüm verileriniz ve lisansınız korundu.",
+    "download_url": "https://github.com/haydaryuksel-beep/collateralwatch/releases/download/v4.6.0/CollateralWatch.exe"
+}
